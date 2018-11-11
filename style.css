@@ -1,0 +1,92 @@
+body{
+	background-color: #FFF;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.gap{
+	margin-top: 20px;
+}
+
+.logo {
+	width: 150px;
+	border-radius: 50%;
+}
+
+.background-img{
+	background: url(img/img1.jpg);
+	background-size: cover;
+	width: 100vw;
+	height: 80vh;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.background-text{
+	text-align: center;
+	color:#FFF;
+	font-size: 60px;
+	font-style: bold;
+	position: absolute;
+	top: 300px;
+	left: 500px;
+	color: #E77A71
+}
+
+
+.card{
+	border: none;
+}
+
+.heading-text{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-family: 'Abril Fatface', cursive;
+	color: #5E5D5D
+}
+
+.img-first{
+	width: 30vw;
+	height:60vh;
+}
+
+.col-text{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-style: italic;
+	color: #5E5D5D
+}
+
+.name{
+	text-align: center;
+}
+
+.icon{
+	margin-top: 30px;
+	font-size: 25px;
+
+}
+.social a{
+	float: right;
+	margin:0 5px;
+}
+
+.cont2 img{
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.gif{
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
